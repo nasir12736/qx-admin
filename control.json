@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "password_required": true,
+  "expiry_days": 10,
+  "blocked": [
+    "uid_100003",
+    "uid_100007",
+    "uid_100011",
+    "uid_100016",
+    "uid_100020"
+  ],
+  "users": {
+    "uid_100001": {"name":"User1","password":"Pass1@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100002": {"name":"User2","password":"Pass2@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100003": {"name":"User3","password":"Pass3@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100004": {"name":"User4","password":"Pass4@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100005": {"name":"User5","password":"Pass5@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100006": {"name":"User6","password":"Pass6@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100007": {"name":"User7","password":"Pass7@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100008": {"name":"User8","password":"Pass8@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100009": {"name":"User9","password":"Pass9@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100010": {"name":"User10","password":"Pass10@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100011": {"name":"User11","password":"Pass11@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100012": {"name":"User12","password":"Pass12@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100013": {"name":"User13","password":"Pass13@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100014": {"name":"User14","password":"Pass14@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100015": {"name":"User15","password":"Pass15@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100016": {"name":"User16","password":"Pass16@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100017": {"name":"User17","password":"Pass17@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100018": {"name":"User18","password":"Pass18@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100019": {"name":"User19","password":"Pass19@","approved":true,"max_devices":1,"devices":[]},
+    "uid_100020": {"name":"User20","password":"Pass20@","approved":true,"max_devices":1,"devices":[]}
+  }
+}
