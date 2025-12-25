@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>QUOTEX Admin Panel</title>
+<style>
+body { font-family: Arial; padding: 20px; background:#f5f5f5; }
+h1 { color: #0faf59; }
+table { border-collapse: collapse; width: 100%; background:#fff; }
+th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+button { padding: 6px 12px; margin: 2px; cursor: pointer; border-radius: 6px; border:none; }
+.block { background:#ff4b2b; color:#fff; }
+.unblock { background:#0faf59; color:#fff; }
+</style>
+</head>
+<body>
+
+<h1>QUOTEX Admin Panel</h1>
+<table id="users-table">
+  <thead>
+    <tr>
+      <th>UID</th><th>Name</th><th>Password</th><th>Max Devices</th><th>Blocked</th><th>Actions</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<script src="admin.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
